@@ -1,7 +1,7 @@
 # Workshop 1
 
 ## Link to hosted project
-https://sapphire-rainy-flea.app.genez.io/
+https://scarlet-operational-tarsier.app.genez.io/
 
 ## Prerequisites
 
